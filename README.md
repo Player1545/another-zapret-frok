@@ -1,5 +1,8 @@
 <div align="center">
 
+<h2><b>ПРОШУ ОБРАТИТЬ ВНИМАНИЕ!</b></h2>
+<b>Это форк другого репозитория с некоторыми дополнениями.</b>
+
 # <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 
 Альтернатива https://github.com/bol-van/zapret-win-bundle  
