@@ -5,7 +5,7 @@
 
 <p>Репозиторий взят с <a href="https://github.com/Flowseal/zapret-discord-youtube">https://github.com/Flowseal/zapret-discord-youtube</a> и немного дополнен.</p>
 
-###[!WARNING]
+[!WARNING]
 > ### АНТИВИРУСЫ
 > WinDivert может вызвать реакцию антивируса.
 > WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret.
@@ -17,7 +17,7 @@
 
 > **Выдержка из [`readme.md`](https://github.com/bol-van/zapret-win-bundle/blob/master/readme.md#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B) репозитория [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
 
-###[!IMPORTANT]
+[!IMPORTANT]
 > Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws). Исключением является файл list-auto-logs.txt, так как он был добавлен в конкретно этом форке. Данный файл нужен для логгирования, не более. Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
 
 ## ⚙️Использование
