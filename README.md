@@ -130,6 +130,8 @@ sc delete название_из_первого_шага
 - [`list-telegram.txt`](./lists/list-telegram.txt) для хостов телеграм, по умлочанию записаны хосты, которые были найдены при сканировании поддоменов telegram.org
 - [`ipset-telegram.txt`](./lists/ipset-telegram.txt) для IP и подсетей, используемых телеграмом
 
+<br>
+<br>
 Благодарю [Flowseal](https://github.com/Flowseal/) за создание столь удобного решения для программы zapret, а именно - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 <br>
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
